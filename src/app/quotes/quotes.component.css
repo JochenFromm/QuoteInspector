@@ -1,0 +1,15 @@
+
+table.table-striped > tbody > tr:nth-of-type(odd) {
+  background-color: #eee;
+}
+
+table.table-striped > tbody > tr >td,
+table.table-striped > tbody > tr >th,
+table.table-striped > tfoot > tr >td,
+table.table-striped > tfoot > tr >th,
+table.table-striped > thead > tr >td,
+table.table-striped > thead > tr >th {
+  padding: 8px;
+  line-height: 24px;
+  vertical-align: top;
+}
