@@ -4,7 +4,7 @@ Simple Angular app that displays quotes of great minds.
 
 Run live on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspector).
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
+This project uses currently Angular 5.2.6 and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
 
 ## Development server
 
