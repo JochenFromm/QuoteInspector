@@ -14,7 +14,8 @@ export class QuotesComponent implements OnChanges {
 
   ngOnChanges() {
     if (this.quotes.length > 0) {
-      this.lines = this.quotes.filter((quote) => quote.includes(this.keyword));
+      const word = this.keyword.toLowerCase();
+      this.lines = this.quotes.filter((quote) => quote.toLowerCase().includes(word));
     }
   }
 
