@@ -74,7 +74,7 @@ All those who are unhappy in the world are so as a result of their desire for th
 Beauty is not in the face, beauty is a light in the heart. ~ Khalil Gibran
 Instead of wanting more, give thanks for the blessings you already have. ~ The Dalai Lama
 Everybody's damaged by something. ~ Emma Donoghue
-If we could see the miracle of a single flower clearly our whole life would change. ~ Gautama Buddha
+If we could see the miracle of a single flower clearly our whole life would change. ~ Buddha
 Always do what you are afraid to do. ~ David Henry Thoreau
 This world is but a canvas to our imagination. ~ David Henry Thoreau
 It's not what you look at that matters, it's what you see. ~ David Henry Thoreau
@@ -106,7 +106,7 @@ The price of inaction is far greater than the cost of making a mistake. ~ Meiste
 To live is the rarest thing in the world. Most people exist, that is all. ~ Oscar Wilde
 If the only prayer you ever say in your entire life is thank you, it will be enough. ~ Meister Eckhart
 Wanting to be someone else is a waste of the person you are. ~ Marilyn Monroe
-Peace comes from within. Do not seek it without. ~ Gautama Buddha
+Peace comes from within. Do not seek it without. ~ Buddha
 Knowledge is proud that he has learned so much. Wisdom is humble that he knows not more. ~ William Cowper
 A wise man makes his own decisions but an ignorant man follows the public opinion. ~ Chinese Proverb
 Music, once admitted to the soul, becomes a sort of spirit, and never dies. ~ Edward Bulwer-Lytton
@@ -609,9 +609,9 @@ The roots of education are bitter, but the fruit is sweet. ~ Aristotle
 Wise men speak because they have something to say ~ Plato
 The unexamined life is not worth living. ~ Socrates
 I don't need a friend who changes when I change and who nods when I nod; my shadow does that much better. ~ Plutarch
-Life begins on the other side of despair. ~ Sartre
-Man is condemned to be free; because once thrown into the world, he is responsible for everything he does. ~ Sartre
-Everything has been figured out, except how to live. ~ Sartre
+Life begins on the other side of despair. ~ Jean-Paul Sartre
+Man is condemned to be free; because once thrown into the world, he is responsible for everything he does. ~ Jean-Paul Sartre
+Everything has been figured out, except how to live. ~ Jean-Paul Sartre
 Tyranny and anarchy are never far apart. ~ Jeremy Bentham
 Reputation is the road to power ~ Jeremy Bentham
 Stretching his hand up to reach the stars, too often man forgets the flowers at his feet. ~ Jeremy Bentham
@@ -636,9 +636,16 @@ Love is the power to see similarity in the dissimilar. ~ Theodor Adorno
 Intolerance of ambiguity is the mark of an authoritarian personality. ~ Theodor W. Adorno
 Modernity is a qualitative, not a chronological, category. ~ Theodor Adorno
 Freedom would be not to choose between black and white but to abjure such prescribed choices. ~ Theodor Adorno
-Wheresoever you go, go with all your heart. ~ Confucius
+Wherever you go, go with all your heart. ~ Confucius
 He who knows all the answers has not been asked all the questions. ~ Confucius
-Before you embark on a journey of revenge, dig two graves. ~ Confucius
+A man is great not because he hasn't failed; a man is great because failure hasn't stopped him. ~ Confucius
+A great man is hard on himself; a small man is hard on others. ~ Confucius
+All the darkness in the world can't put out the light of one candle. ~ Confucius
+Expect much from yourself and little from others and you will avoid incurring resentments. ~ Confucius
+Three things cannot long be hidden: the sun, the moon, and the truth. ~ Confucius
+Don't curse the darkness, light a candle. ~ Confucius
+It does not matter how slowly you go as long as you do not stop. ~ Confucius
+The man who loves his job never works a day in his life. ~ Confucius
 You should not honor men more than truth. ~ Plato
 The worst of all deceptions is self-deception. ~ Plato
 The right question is usually more important than the right answer. ~ Plato
@@ -729,6 +736,11 @@ Be miserable. Or motivate yourself. Whatever has to be done, it's always your ch
 Your vision is the promise of what you shall one day be your ideal is the prophecy of what you shall at last unveil. ~ James Allen
 Nothing is more dangerous than an idea, when you have only one idea. ~ Alain (French Philosopher)
 Carpe diem quam minimum credula postero. (Seize the Day, put no trust in tomorrow) ~ Horace
+Nil sine magno vita labore dedit mortalibus. (Life grants nothing to us mortals without hard work) ~ Horace
+Inde fit ut raro, qui se vixisse beatum dicat et exacto contentus tempore vita cedat uti conviva satur, reperire queamus. (We rarely find anyone who can say he has lived a happy life, and who, content with his life, can retire from the world like a satisfied guest.) ~ Horace
+Pulvis et umbra sumus (We are but dust and shadow) ~ Horace
+Dimidium facti qui coepit habet; sapere aude; incipe! (He who has begun has half done. Dare to be wise; begin!) ~ Horace
+Ira furor brevis est: animum rege: qui nisi paret imperat. (Anger is a momentary madness so control your passion or it will control you.) ~ Horace
 Those who don't know how to weep with their whole heart don't know how to laugh either. ~ Golda Meir
 If you're absent during my struggle, don't expect to be present during my success. ~ Will Smith
 Early to bed, early to rise, makes a man healthy, wealthy and wise. ~ Benjamin Franklin
@@ -775,7 +787,7 @@ A happy person is not a person in a certain set of circumstances, but rather a p
 What a wonderful life I've had! I only wish I'd realized it sooner. ~ Sidonie-Gabrielle Colette
 The most positive men are the most credulous. ~ Jonathan Swift
 Do not lose hold of your dreams or aspirations. For if you do, you may still exist but you have ceased to live. ~ Henry David Thoreau
-When rich people fight wars with one another, poor people are the ones to die. ~ Sartre
+When rich people fight wars with one another, poor people are the ones to die. ~ Jean-Paul Sartre
 Knowledge is power. ~ Sir Francis Bacon
 Those who do not remember the past are condemned to repeat it. ~ George Santayana
 You can easily judge the character of a man by how he treats those who can do nothing for him. ~ James D. Miles
@@ -810,7 +822,10 @@ Your mind is a tool you can choose to use any way you wish. ~ Louise L. Hay
 Opportunities are usually disguised as hard work, so most people don't recognize them. ~ Ann Landers
 Fear of death increases in exact proportion to increase in wealth. ~ Ernest Hemingway
 What you cannot see in the world is far more powerful than anything you can see. ~ T. Harv Eker
-When the rich wage, war it's the poor who die. ~ Jean-Paul Sartre
+Hell is - other people! ~ Jean-Paul Sartre
+We make our own hell out of the people around us. ~ Jean-Paul Sartre
+It is up to you to give life a meaning. ~ Jean-Paul Sartre
+
 Sport is something that does not matter, but is performed as if it did. In that contradiction lies its beauty. ~ Simon Barnes
 Broadly speaking, the short words are the best, and the old words best of all. ~ Winston Churchill
 When I was young I used to think that money was the most important thing in life. Now that I am old, I know it is. ~ Oscar Wilde
