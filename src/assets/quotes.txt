@@ -281,7 +281,6 @@ Begin to be now what you will be hereafter. ~ William James
 Plan for the future, because that is where you are going to spend the rest of your life. ~ Mark Twain
 The one unchangeable certainty is that nothing is unchangeable or certain. ~ John F. Kennedy
 Home is not where you live, it's where people understand you. ~ C. Morgenstern
-Every wall is a door. ~ Ralph Waldo Emerson
 Courage is like a muscle. We strengthen it with use. ~ Ruth Gordon
 One cannot both feast and become rich. ~ Ashanti Proverb
 Someone's opinion of you does not have to become your reality. ~ Les Brown
@@ -510,7 +509,6 @@ The reading of all good books is like a conversation with the finest minds of pa
 What we think, we become. ~ Buddha
 That which is not good for the beehive, cannot be good for the bees. ~ Marcus Aurelius
 The best revenge is to be unlike the one who performed the injustice. ~ Marcus Aurelius
-If you wish to be a writer, write. ~ Epictus
 There is no avoiding war; it can only be postponed. ~ Machiavelli
 How happy we are, we finders of knowledge, provided we know how to keep silent sufficiently long. ~ Nietzsche
 Never discourage anyone who continually makes progress, no matter how slow. ~ Plato
@@ -779,7 +777,7 @@ Intellectual growth should commence at birth and cease only at death. ~ Albert E
 Repeat anything often enough and it will start to become you. ~ Tom Hopkins
 What you hear, you forget what you see, you remember what you do, you understand. ~ T. Harv Eker
 An investment in knowledge pays the best interest. ~ Benjamin Franklin
-Children enjoy the present because they have neither a past nor a future. ~ Jean de la Bruy�re
+Children enjoy the present because they have neither a past nor a future. ~ Jean de la Bruyere
 Things turn out best for the people who make the best out of the way things turn out. ~ Titus Livius
 Once you eliminate the impossible, whatever remains, no matter how improbable, must be the truth. ~ A. C. Doyle
 Don't let what you can't do stop you from doing what you can do. ~ John Wooden
@@ -927,3 +925,120 @@ The business of every art is to bring something into existence, and the practice
 If we encounter a man of rare intellect, we should ask him what books he reads. ~ Ralph Waldo Emerson
 Be not the slave of your own past. Plunge into the sublime seas, dive deep and swim far, so you shall come back with self-respect, with new power, with an advanced experience that shall explain and overlook the old. ~ Ralph Waldo Emerson
 Do not go where the path may lead, go instead where there is no path and leave a trail. ~ Ralph Waldo Emerson
+Perfection is attained by slow degrees; it requires the hand of time. ~ Voltaire
+Small minds are concerned with the extraordinary, great minds with the ordinary. ~ Blaise Pascal
+The world of reality has its limits; the world of imagination is boundless. ~ Jean-Jacques Rousseau
+There are many ways of going forward, but only one way of standing still. ~ Franklin D. Roosevelt
+A man is but the product of his thoughts. What he thinks, he becomes. ~ Mahatma Gandhi
+One word frees us from all the weight and pain in life. That word is love. ~ Sophocles
+Common sense is not so common. ~ Voltaire
+Laughter is the sun that drives winter from the human face. ~ Victor Hugo
+If youth knew; if age could. ~ Sigmund Freud
+Be at war with your vices, at peace with your neighbors, and let every new year find you a better man. ~ Benjamin Franklin
+Everyone thinks of changing the world, but no one thinks of changing himself. ~ Leo Tolstoy
+Do the difficult things while they are easy and do the great things while they are small. ~ Lao Tzu
+The human mind will not be confined to any limits. ~ Johann Wolfgang von Goethe
+Ask not what your country can do for you ~ ask what you can do for your country. ~ John F. Kennedy
+It is not in the stars to hold our destiny but in ourselves. ~ William Shakespeare
+We don't stop playing because we grow old; we grow old because we stop playing. ~ George Bernard Shaw
+When in doubt, don't. ~ Benjamin Franklin
+One person can make a difference, and everyone should try. ~ John F. Kennedy
+Better to light a candle than to curse the darkness. ~ Chinese Proverb
+To live is to think. ~ Marcus Tullius Cicero
+The mind is everything. What you think you become. ~ Buddha
+Adversity makes men, and prosperity makes monsters. ~ Victor Hugo
+Courage is grace under pressure. ~ Ernest Hemingway
+One moment of patience may ward off great disaster.  One moment of impatience may ruin a whole life. ~ Chinese Proverb
+The course of true love never did run smooth. ~ William Shakespeare
+First say to yourself what you would be; and then do what you have to do. ~ Epictetus
+Insanity: doing the same thing over and over again and expecting different results. ~ Albert Einstein
+The only person you are destined to become is the person you decide to be. ~ Ralph Waldo Emerson
+Controlling complexity is the essence of computer programming. ~ Brian W. Kernighan
+90% of the functionality delivered now is better than 100% delivered never. ~ Brian W. Kernighan
+A program that has not been tested does not work. ~ Bjarne Stroustrup
+Programs are meant to be read by humans and only incidentally for computers to execute. ~ Donald Knuth
+One of the most important lessons, perhaps, is the fact that SOFTWARE IS HARD. ~ Donald Knuth
+It is much more rewarding to do more with less. ~ Donald Knuth
+Science is what we understand well enough to explain to a computer. Art is everything else we do. ~ Donald Knuth
+Science is knowledge which we understand so well that we can teach it to a computer; and if we don't fully understand something, it is an art to deal with it. ~ Donald Knuth
+Happiness is unrepentant pleasure. ~ Socrates
+The community which has neither poverty nor riches will always have the noblest principles. ~ Plato
+The greater the difficulty, the greater the glory. ~ Cicero
+If one does not know to which port one is sailing, no wind is favorable. ~ Seneca
+The mind unlearns with difficulty what it has long learned. ~ Seneca
+Practice yourself, for heaven's sake in little things, and then proceed to greater. ~ Epictetus
+Ignorance, the root and stem of all evil. ~ Plato
+Our life is what our thoughts make it. ~ Marcus Aurelius
+What difference does it make how much you have? What you do not have amounts to much more  ~ Seneca
+We are more often frightened than hurt; and we suffer more from imagination than from reality. ~ Seneca
+It is not once nor twice but times without number that the same ideas make their appearance in the world. ~ Aristotle
+Each day provides its own gifts. ~ Marcus Aurelius
+How much more grievous are the consequences of anger than the causes of it. ~ Marcus Aurelius
+The less men think, the more they talk. ~ Montesquieu
+He who lives in harmony with himself lives in harmony with the universe. ~ Marcus Aurelius
+Success depends upon previous preparation, and without such preparation there is sure to be failure. ~ Confucius
+When you are laboring for others let it be with the same zeal as if it were for yourself. ~ Confucius
+A lost battle is a battle one thinks one has lost. ~ Jean-Paul Sartre
+Liberty is the right to do what the law permits. ~ Montesquieu
+Each problem that I solved became a rule, which served afterwards to solve other problems. ~ Rene Descartes
+Love takes up where knowledge leaves off. ~ Thomas Aquinas
+Good can exist without evil, whereas evil cannot exist without good. ~ Thomas Aquinas
+Opinion has caused more trouble on this little earth than plagues or earthquakes. ~ Voltaire
+Philosophy begins in wonder. ~ Plato
+Where there is no property there is no injustice. ~ John Locke
+Better to illuminate than merely to shine, to deliver to others contemplated truths than merely to contemplate. ~ Thomas Aquinas
+Men show their character in nothing more clearly than what they think laughable. ~ Johann Wolfgang von Goethe
+When you are content to be simply yourself and don't compare or compete, everybody will respect you. ~ Lao Tzu
+To realize that you do not understand is a virtue; Not to realize that you do not understand is a defect. ~ Lao Tzu
+Truth is what works. ~ William James
+You cannot step into the same river twice. ~ Heraclitus
+It is the mark of an educated mind to be able to entertain a thought without accepting it. ~ Aristotle
+When envoys are sent with compliments in their mouths, it is a sign that the enemy wishes for a truce. ~ Sun Tzu
+Genius... means little more than the faculty of perceiving in an unhabitual way. ~ William James
+Indeed, history is nothing more than a tableau of crimes and misfortunes. ~ Voltaire
+Know your enemy and know yourself and you can fight a hundred battles without disaster. ~ Sun Tzu
+None are more taken in by flattery than the proud, who wish to be the first and are not. ~ Baruch Spinoza
+Acting is a question of absorbing other people's personalities and adding some of your own experience. ~ Jean-Paul Sartre
+The good life is one inspired by love and guided by knowledge. ~ Bertrand Russell
+How could man rejoice in victory and delight in the slaughter of men? ~ Lao Tzu
+The wise man does at once what the fool does finally. ~ Niccolo Machiavelli
+Our affections as well as our bodies are in perpetual flux. ~ Jean-Jacques Rousseau
+Only the guy who isn't rowing has time to rock the boat. ~ Jean-Paul Sartre
+The quality of decision is like the well-timed swoop of a falcon which enables it to strike and destroy its victim. ~ Sun Tzu
+Whoever blushes is already guilty; true innocence is ashamed of nothing. ~ Jean-Jacques Rousseau
+We must no more ask whether the soul and body are one than ask whether the wax and the figure impressed on it are one. ~ Aristotle
+The little man is still a man. ~ Johann Wolfgang von Goethe
+There is no desire more natural than the desire for knowledge. ~ Michel de Montaigne
+Business is the salt of life. ~ Voltaire
+He who has many friends has none. ~ Aristotle
+Truth is so obscure in these times, and falsehood so established, that, unless we love the truth, we cannot know it. ~ Blaise Pascal
+War is just when it is necessary; arms are permissible when there is no hope except in arms. ~ Niccolo Machiavelli
+The great use of life is to spend it for something that will outlast it. ~ William James
+All warfare is based on deception. ~ Sun Tzu
+The world turns aside to let any man pass who knows where he is going. ~ Epictetus
+All that I know about my life, it seems, I have learned in books. ~ Jean-Paul Sartre
+Whoever wishes to keep a secret must hide the fact that he possesses one. ~ Johann Wolfgang von Goethe
+Tears are the silent language of grief. ~ Voltaire
+There is no conversation more boring than the one where everybody agrees. ~ Michel de Montaigne
+No man ever steps in the same river twice, for it's not the same river and he's not the same man. ~ Heraclitus
+The art of medicine consists in amusing the patient while nature cures the disease. ~ Voltaire
+Man is condemned to be free; because once thrown into the world, he is responsible for everything he does. ~ Jean-Paul Sartre
+People are usually more convinced by reasons they discovered themselves than by those found by others. ~ Blaise Pascal
+Understanding is nothing else than conception caused by speech. ~ Thomas Hobbes
+The eternal silence of these infinite spaces frightens me. ~ Blaise Pascal
+Nothing is pleasant that is not spiced with variety. ~ Francis Bacon
+Pleasure and freedom from pain, are the only things desirable as ends. ~ John Stuart Mill
+Put your heart, mind, and soul into even your smallest acts. This is the secret of success. ~ Swami Sivananda
+My best friend is the man who in wishing me well wishes it for my sake. ~ Aristotle
+It is too difficult to think nobly when one thinks only of earning a living. ~ Jean-Jacques Rousseau
+Because of a great love, one is courageous. ~ Lao Tzu
+Fanaticism consists of redoubling your effort when you have forgotten your aim. ~ George Santayana
+Chaos is a name for any order that produces confusion in our minds. ~ George Santayana
+The wisest mind has something yet to learn. ~ George Santayana
+All difficult things have their origin in that which is easy, and great things in that
+which is small. ~ Lao Tzu
+In every real man a child is hidden that wants to play. ~ Friedrich Nietzsche
+Oaths are the fossils of piety. ~ George Santayana
+Depression is rage spread thin. ~ George Santayana
+Talent develops in quiet places, character in the full current of human life. ~ Johann Wolfgang von Goethe
+Travelling is almost like talking with those of other centuries. ~ Rene Descartes

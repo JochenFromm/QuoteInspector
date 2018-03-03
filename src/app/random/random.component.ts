@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Http } from '@angular/http';
+import { QuotesService } from '../services/quotes.service';
 
 @Component({
   selector: 'app-random',
@@ -8,33 +8,20 @@ import { Http } from '@angular/http';
 })
 
 export class RandomComponent implements OnInit {
-  title: string = 'Quote Inspector';
   quote_author: string = '';
   quote_text: string = '';
   quotes: string[] = [];
 
-
-  constructor (private http: Http) {
+  constructor (private quotesService: QuotesService) {
   }
 
   ngOnInit() {
-    this.http.get('/assets/quotes.txt').subscribe(data => {
-      this.quotes = data.text().split(/\r\n|\n/);
-
+    this.quotesService.findAll().subscribe(data => {
+      this.quotes = data;
       const index = Math.floor((Math.random() * this.quotes.length));
-      this.quote_text = this.quote(this.quotes[index]);
-      this.quote_author = this.author(this.quotes[index]);
+      const quote = this.quotes[index];
+      this.quote_text = this.quotesService.quote(quote);
+      this.quote_author = this.quotesService.author(quote);
     })
   }
-
-  author(line) {
-    const author = line.split('~')[1];
-    return author ? author.trim() : ''
-  }
-
-  quote(line) {
-    const quote = line.split('~')[0];
-    return quote ? quote.trim() : ''
-  }
-
 }

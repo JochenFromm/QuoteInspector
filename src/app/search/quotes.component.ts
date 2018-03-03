@@ -1,4 +1,5 @@
 import { Component, OnChanges, Input } from '@angular/core';
+import { QuotesService } from '../services/quotes.service';
 
 @Component({
   selector: 'quotes',
@@ -10,7 +11,9 @@ export class QuotesComponent implements OnChanges {
   @Input() quotes: string[];
   lines: string[] = [];
 
-  constructor() { }
+  constructor (private quotesService: QuotesService) {
+  }
+
 
   ngOnChanges() {
     if (this.quotes.length > 0) {
@@ -20,12 +23,10 @@ export class QuotesComponent implements OnChanges {
   }
 
   author(line) {
-    const author = line.split('~')[1];
-    return author ? author.trim() : ''
+    return this.quotesService.author(line);
   }
 
   quote(line) {
-    const quote = line.split('~')[0];
-    return quote ? quote.trim() : ''
+    return this.quotesService.quote(line);
   }
 }

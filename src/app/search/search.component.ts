@@ -1,24 +1,39 @@
 import { Component, OnInit } from '@angular/core';
-import { QuotesComponent } from '../quotes/quotes.component';
-import { Http } from '@angular/http';
+import { Router, ActivatedRoute, Params } from '@angular/router';
+import { QuotesComponent } from './quotes.component';
+import { QuotesService } from '../services/quotes.service';
 
 @Component({
   selector: 'search',
   templateUrl: './search.component.html',
-  styleUrls: ['./search.component.css']
+  styleUrls: ['./search.component.css'],
+  providers: [
+    QuotesService,
+  ]
 })
 
 export class SearchComponent implements OnInit {
-  title: string = 'Quote Inspector';
   keyword: string = '';
   quotes: string[] = [];
 
-  constructor (private http: Http) {
+  constructor (private activatedRoute: ActivatedRoute,
+               private quotesService: QuotesService) {
+  }
+
+  getKeyword() : void {
+    this.activatedRoute.queryParams.subscribe((params: Params) => {
+      this.keyword = params['q'] || '';
+    });
+  }
+
+  getQuotes() : void {
+    this.quotesService.findAll().subscribe(data => {
+      this.quotes = data;
+    });
   }
 
   ngOnInit() {
-    this.http.get('/assets/quotes.txt').subscribe(data => {
-      this.quotes = data.text().split(/\r\n|\n/);
-    })
+    this.getKeyword();
+    this.getQuotes();
   }
 }

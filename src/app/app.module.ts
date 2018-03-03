@@ -5,11 +5,11 @@ import { HttpModule } from '@angular/http';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { QuotesComponent } from './quotes/quotes.component';
+import { QuotesComponent } from './search/quotes.component';
 import { SearchComponent } from './search/search.component';
 import { RandomComponent } from './random/random.component';
 import { AboutComponent } from './about/about.component';
-
+import { QuotesService } from './services/quotes.service';
 
 @NgModule({
   declarations: [
@@ -25,7 +25,9 @@ import { AboutComponent } from './about/about.component';
     HttpModule,
     AppRoutingModule,
   ],
-  providers: [],
+  providers: [
+    QuotesService,
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
