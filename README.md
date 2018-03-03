@@ -1,6 +1,6 @@
 # QuoteInspector
 
-Simple Angular app that displays quotes of great minds.
+Simple Angular app for investigating quotes of wise men, old philosophers and great minds.
 
 Run live on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspector).
 
