@@ -3,6 +3,8 @@
 
   <input class="search" [(ngModel)]="keyword" type="text" placeholder="Enter your search terms" />
 
+  <tag-cloud [text]="text" [exclude]="keyword"> </tag-cloud>
+
   <quotes [keyword]="keyword" [quotes]="quotes"> </quotes>
 
 </div>

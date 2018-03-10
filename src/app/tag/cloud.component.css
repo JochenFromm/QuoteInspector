@@ -1,0 +1,51 @@
+h1, p {
+  font-family: Lato;
+}
+
+textarea {
+  width: 400px;
+  height: 150px;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+.cloud {
+  display: none;
+  list-style-type: none;
+  width: 400px;
+  float: right;
+}
+
+@media (min-width: 1000px) {
+  .cloud {
+    display: block;
+  }
+}
+
+
+.cloud li {
+  list-style: none;
+  display: inline-block;
+  margin: 0px 6px;
+}
+.cloud li.extra_small {
+    font-size: 8px;
+}
+.cloud li.small {
+    font-size: 9px;
+}
+.cloud li.normal {
+    font-size: 11px;
+}
+.cloud li.medium {
+    font-size: 13px;
+}
+.cloud li.large {
+    font-size: 16px;
+}
+.cloud li.extra_large {
+    font-size: 22px;
+}

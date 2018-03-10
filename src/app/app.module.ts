@@ -8,6 +8,7 @@ import { AppComponent } from './app.component';
 import { QuotesComponent } from './search/quotes.component';
 import { SearchComponent } from './search/search.component';
 import { RandomComponent } from './random/random.component';
+import { CloudComponent } from './tag/cloud.component';
 import { AboutComponent } from './about/about.component';
 import { QuotesService } from './services/quotes.service';
 
@@ -17,6 +18,7 @@ import { QuotesService } from './services/quotes.service';
     QuotesComponent,
     SearchComponent,
     RandomComponent,
+    CloudComponent,
     AboutComponent
   ],
   imports: [

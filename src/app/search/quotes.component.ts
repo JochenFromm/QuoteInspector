@@ -14,7 +14,6 @@ export class QuotesComponent implements OnChanges {
   constructor (private quotesService: QuotesService) {
   }
 
-
   ngOnChanges() {
     if (this.quotes.length > 0) {
       const word = this.keyword.toLowerCase();
