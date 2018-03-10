@@ -1,9 +1,11 @@
 
 <div class="quote-list">
 
-  <input class="search" [(ngModel)]="keyword" type="text" placeholder="Enter your search terms" />
+  <input class="search" type="text"
+         [ngModel]="keyword" (ngModelChange)="onInputChanged($event)"
+         placeholder="Enter your search terms" />
 
-  <tag-cloud [text]="text" [exclude]="keyword"> </tag-cloud>
+  <tag-cloud [keyword]="keyword" [text]="text"> </tag-cloud>
 
   <quotes [keyword]="keyword" [quotes]="quotes"> </quotes>
 

@@ -1,4 +1,4 @@
-import { Component, OnChanges, Input } from '@angular/core';
+import { Component, Input } from '@angular/core';
 import { QuotesService } from '../services/quotes.service';
 
 @Component({
@@ -6,19 +6,11 @@ import { QuotesService } from '../services/quotes.service';
   templateUrl: './quotes.component.html',
   styleUrls: ['./quotes.component.css']
 })
-export class QuotesComponent implements OnChanges {
+export class QuotesComponent {
   @Input() keyword: string;
   @Input() quotes: string[];
-  lines: string[] = [];
 
   constructor (private quotesService: QuotesService) {
-  }
-
-  ngOnChanges() {
-    if (this.quotes.length > 0) {
-      const word = this.keyword.toLowerCase();
-      this.lines = this.quotes.filter((quote) => quote.toLowerCase().includes(word));
-    }
   }
 
   author(line) {

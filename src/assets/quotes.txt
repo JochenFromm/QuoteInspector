@@ -297,7 +297,6 @@ People favour underdogs but follow only top dogs. Fight for a few underdogs anyw
 We always strive after what is forbidden, and desire the things refused us. ~ Ovid
 Problems are not stop signs, they are guidelines. ~ Robert H. Schuller
 With virtue you can't be entirely poor; without virtue you can't really be rich. ~ Chinese Proverb
-If you?re not hearing mindfulness in some deep way as heartfulness, you?re not really understanding it. ~ Jon Kabat-Zinn
 The honey is guarded by bees.. The rose has thorns.. To enjoy the sweet and beautiful you can not be cowardly. ~ Rev Run
 Creativity is piercing the mundane to find the marvellous. ~ Bill Moyers
 To accomplish the grand, you have to focus on the small. ~ Pete Carroll (football coach)
@@ -435,7 +434,7 @@ Whoever says that stillness does not exist is merely making noise. ~ Kierkegaard
 You can't build a reputation on what you're going to do. ~ Henry Ford
 Thinking is easy. Acting is hard. But acting in accordance with your thinking is the hardest thing in the world. ~ Johann Wolfgang von Goethe
 Peace if possible, truth at all costs. ~ Martin Luther
-Those who travel very slowly on the straight road may make greater progress than those who, while running, forsake it. ~ Rene Descartes
+Those who travel very slowly on the straight road may make greater progress than those who, while running, forsake it. ~ Descartes
 The good life is one inspired by love and guided by knowledge. ~ Bertrand Russell
 The true function of reason is to show man that some things are beyond reason. ~ Blaise Pascal
 The real obstacles in life lie in the heart of man. ~ Bertrand Russell
@@ -507,7 +506,6 @@ The learning and knowledge that we have is but little compared to that which we 
 Each day provides its own gifts. ~ Marcus Aurelius
 Better to remain silent and be thought a fool than to speak out and remove all doubt. ~ Mark Twain
 Observe your enemies, for they first find your faults. ~ Antisthenes
-We can easily forgive a child who is afraid of the dark. The real tragedy of life is when men are afraid of the light. ~ Plato
 Let him that would move the world first move himself. ~ Socrates
 The reading of all good books is like a conversation with the finest minds of past centuries. ~ Descartes
 What we think, we become. ~ Buddha
@@ -520,9 +518,7 @@ The learning and knowledge that we have is but little compared to that which we 
 Each day provides its own gifts. ~ Marcus Aurelius
 Better to remain silent and be thought a fool than to speak out and remove all doubt. ~ Mark Twain
 Observe your enemies, for they first find your faults. ~ Antisthenes
-We can easily forgive a child who is afraid of the dark. The real tragedy of life is when men are afraid of the light. ~ Plato
 Let him that would move the world first move himself. ~ Socrates
-The reading of all good books is like a conversation with the finest minds of past centuries. ~ Descartes
 Your religion is what you do with your solitude. ~ W. Temple
 A dog is not considered a good dog because he is a good barker. A man is not considered a good man because he is a good talker. ~ Buddha
 Out of the crooked timber of humanity, no straight thing was ever made. ~ Kant
@@ -549,7 +545,6 @@ You can't use an old map to explore a new world. ~ Albert Einstein
 Mastering others is strength. Mastering oneself makes you fearless. ~ Lao Tzu
 The truth is not always beautiful, nor beautiful words the truth. ~ Lao Tzu
 If you want to live a happy life, tie it to a goal, not to people or things. ~ Albert Einstein
-A clever person solves a problem. A wise person avoids it. ~ Albert Einstein
 The difference between stupidity and genius is that genius has its limits. ~ Albert Einstein
 Weak people revenge. Strong people forgive. Intelligent People Ignore. ~ Albert Einstein
 The greater the difficulty, the more glory in surmounting it ~  Epicurus
@@ -581,7 +576,7 @@ Discord is the great ill of mankind; and tolerance is the only remedy for it. ~ 
 Wealth is the slave of a wise man. The master of a fool  ~ Seneca
 Only time can heal what reason cannot. ~ Seneca
 It is the power of the mind to be unconquerable. ~ Seneca
-There is no easy way from the earth to the stars~ Seneca
+There is no easy way from the earth to the stars. ~ Seneca
 Difficulties strengthen the mind, as labor does the body. ~ Seneca
 Luck is what happens when preparation meets opportunity. ~ Seneca
 Our most important thoughts are those that contradict our emotions. ~ Paul Valery
@@ -591,7 +586,7 @@ Nature does nothing without purpose or uselessly ~ Aristotle
 Choice, not chance, determines your destiny. ~ Aristotle
 There is a foolish corner in the brain of the wisest man. ~ Aristotle
 What makes a man a 'sophist' is not his faculty, but his moral purpose. ~ Aristotle
-The best way to make your dreams come true is to wake up. ~Paul Valery
+The best way to make your dreams come true is to wake up. ~ Paul Valery
 The cultivation of the intellect is man's highest good and purest happiness ~ Aristotle
 The way to corrupt a youth is to teach him to hold in higher esteem those who think alike than those who think differently ~ Nietzsche
 People demand freedom of speech as a compensation for the freedom of thought which they never use. ~ Kierkegaard
@@ -611,7 +606,7 @@ Blessed are the hearts that can bend; they shall never be broken. ~ Albert Camus
 After a while you could get used to anything. ~ Albert Camus, The Stranger
 You're on Earth. There's no cure for that. ~ Samuel Beckett
 With all things being equal, the simplest explanation tends to be the right one. ~ William of Ockham
-Thoughts are the shadows of our feelings ~ always darker, emptier and simpler. ~ Friedrich Nietzsche
+Thoughts are the shadows of our feelings - always darker, emptier and simpler. ~ Friedrich Nietzsche
 We love life, not because we are used to living but because we are used to loving. ~ Friedrich Nietzsche
 Skillful pilots gain their reputation from storms and tempest. ~ Epicurus
 Of all the things which wisdom provides to make us entirely happy, much the greatest is the possession of friendship ~ Epicurus
@@ -664,7 +659,6 @@ No one is more hated than he who speaks the truth. ~ Plato
 Those who cannot understand how to put their thoughts on ice should not enter into the heat of debate. ~ Friedrich Nietzsche
 Appreciation is a wonderful thing: it makes what is excellent in others belong to us as well. ~ Voltaire
 The best weapon against an enemy is another enemy. ~ Friedrich Nietzsche
-Thoughts are the shadows of our feelings ~ always darker, emptier and simpler. ~ Friedrich Nietzsche
 The progress of rivers to the ocean is not so rapid as that of man to error. ~ Voltaire
 The only thing that will redeem mankind is cooperation. ~ Bertrand Russell
 The good life is one inspired by love and guided by knowledge. ~ Bertrand Russell
@@ -692,7 +686,6 @@ Follow effective action with quiet reflection. From the quiet reflection will co
 Have more than thou showest, speak less than thou knowest, lend less than thou owest. ~ William Shakespeare
 People will forget what you said, people will forget what you did, but people will never forget how you made them feel. ~ Maya Angelou
 When your work speaks for itself, don't interrupt. ~ Henry Kaiser
-When one gets in bed with government, one must expect the diseases it spreads. ~ Ron Paul
 Whoever is not acquainted with foreign languages knows nothing of his own. ~ Johann Wolfgang von Goethe
 Politicians are like diapers they need to be changed often and for the same reason. ~ Mark Twain
 Genius may have its limitations, but stupidity is not thus handicapped. ~ Elbert Hubbard
@@ -791,10 +784,9 @@ No occupation is so delightful to me as the culture of the earth, and no culture
 I may not have gone where I intended to go, but I think I have ended up where I needed to be. ~ Douglas Adams
 Never bend your head. Always hold it high. Look the world straight in the eye. ~ Helen Keller
 Laughter is the greatest weapon we have and we, as humans, use it the least. ~ Mark Twain
-Happiness is good health ~ and a bad memory. ~ Ingrid Bergman
+Happiness is good health - and a bad memory. ~ Ingrid Bergman
 Like your body your mind also gets tired so refresh it by wise sayings. ~ Ali Ibne Abi Talib
 When the rich wage, war it's the poor who die. ~ Jean-Paul Sartre
-Why have you not broken from the pack? You're playing it safe. Safe aint gonna get you **** in this world. ~ Stone Cold Steve Austin
 News is the first draft of history. ~ Philip Graham
 A happy person is not a person in a certain set of circumstances, but rather a person with a certain set of attitudes. ~ Hugh Downs
 What a wonderful life I've had! I only wish I'd realized it sooner. ~ Sidonie-Gabrielle Colette
@@ -824,7 +816,7 @@ If you are not willing to risk the unusual, you will have to settle for the ordi
 Self-esteem is the reputation we acquire with ourselves. ~ Nathaniel Branden
 No matter how many goals you have achieved, you must set your sights on a higher one. ~ Jessica Savitch
 Knowing is not enough we must apply. Willing is not enough we must do. ~ Johann Wolfgang von Goethe
-Difficult things take a long time, impossible things a little longer. ~ Andr� A. Jackson
+Difficult things take a long time, impossible things a little longer. ~ Andre A. Jackson
 Never bend your head. Always hold it high. Look the world straight in the eye. ~ Helen Keller
 Even if you fall on your face, you're still moving forward. ~ Victor Kiam
 Failure is nature's plan to prepare you for great responsibilities. ~ Napoleon Hill
@@ -983,7 +975,7 @@ Success depends upon previous preparation, and without such preparation there is
 When you are laboring for others let it be with the same zeal as if it were for yourself. ~ Confucius
 A lost battle is a battle one thinks one has lost. ~ Jean-Paul Sartre
 Liberty is the right to do what the law permits. ~ Montesquieu
-Each problem that I solved became a rule, which served afterwards to solve other problems. ~ Rene Descartes
+Each problem that I solved became a rule, which served afterwards to solve other problems. ~ Descartes
 Love takes up where knowledge leaves off. ~ Thomas Aquinas
 Good can exist without evil, whereas evil cannot exist without good. ~ Thomas Aquinas
 Opinion has caused more trouble on this little earth than plagues or earthquakes. ~ Voltaire
@@ -1038,10 +1030,150 @@ Because of a great love, one is courageous. ~ Lao Tzu
 Fanaticism consists of redoubling your effort when you have forgotten your aim. ~ George Santayana
 Chaos is a name for any order that produces confusion in our minds. ~ George Santayana
 The wisest mind has something yet to learn. ~ George Santayana
-All difficult things have their origin in that which is easy, and great things in that
-which is small. ~ Lao Tzu
+All difficult things have their origin in that which is easy, and great things in that which is small. ~ Lao Tzu
 In every real man a child is hidden that wants to play. ~ Friedrich Nietzsche
 Oaths are the fossils of piety. ~ George Santayana
 Depression is rage spread thin. ~ George Santayana
 Talent develops in quiet places, character in the full current of human life. ~ Johann Wolfgang von Goethe
-Travelling is almost like talking with those of other centuries. ~ Rene Descartes
+Travelling is almost like talking with those of other centuries. ~ Descartes
+A danger foreseen is half avoided. ~ Thomas Fuller
+Finding a way to live the simple life today is man's most complicated task. ~ Henry A. Courtney
+Yesterday is but today's memory, tomorrow is today's dream. ~ Kahlil Gibran
+In the middle of difficulty lies opportunity. ~ Albert Einstein
+Things do not happen. Things are made to happen. ~ John F Kennedy
+Life is like riding a bicycle. To keep your balance, you must keep moving. ~ Albert Einstein
+Be kind, for everyone you meet is fighting a hard battle. ~ Plato
+Being challenged in life is inevitable, being defeated is optional. ~ Roger Crawford
+Not everything that can be counted counts, and not everything that counts can be counted. ~ Albert Einstein
+You cannot perform in a manner inconsistent with the way you see yourself. ~ Zig Ziglar
+No pressure, no diamonds. ~ Mary Case
+Our chief want is someone who will inspire us to be what we know we could be. ~ Ralph Waldo Emerson
+Don't limit yourself. Many people limit themselves to what they think they can do. ~ Mary Kay Ash
+If you want to achieve widespread impact and lasting value, be bold. ~ Howard Schultz
+If you wish to know the mind of a man, listen to his words. ~ Johann Wolfgang von Goethe
+Never stand begging for that which you have the power to earn. ~ Miguel de Cervantes
+Know yourself and you will win all battles.  ~ Sun Tzu
+For every minute you are angry you lose sixty seconds of happiness. ~ Ralph Waldo Emerson
+There is no such thing in anyone's life as an unimportant day. ~ Alexander Woollcott
+An expert is a man who has made all the mistakes which can be made, in a narrow field. ~ Niels Bohr
+As soon as you trust yourself, you will know how to live. ~ Johann Wolfgang von Goethe
+To conquer fear is the beginning of wisdom. ~ Bertrand Russell
+Striving for excellence motivates you; striving for perfection is demoralizing. ~ Harriet Braiker
+Whatever you believe with feeling becomes your reality. ~ Brian Tracy
+We are all in the gutter, but some of us are looking at the stars. ~ Oscar Wilde
+Management is doing things right; leadership is doing the right things. ~ Peter Drucker
+It is not enough to be busy. So are the ants. The question is: What are we busy about? ~ Henry David Thoreau
+Only he who can see the invisible can do the impossible. ~ Frank L. Gaines
+When everything seems to be going against you, remember that the airplane takes off against the wind, not with it. ~ Henry Ford
+If you would be wealthy, think of saving as well as getting. ~ Benjamin Franklin
+Be like a postage stamp, stick to one thing until you get there. ~ Josh Billings
+Everyday, give yourself a good mental shampoo. ~ Dr. Sara Jordan
+Live out of your imagination, not your history. ~ Stephen Covey
+Life's Tragedy is that we get old too soon and wise too late. ~ Benjamin Franklin
+If at first you don't succeed, try, try, again. Then quit. There's no use being a damn fool about it. ~ W.C.Fields.
+If you are working on something exciting that you really care about, you don't have to be pushed. The vision pulls you. ~ Steve Jobs
+He who enjoys doing and enjoys what he has done is happy. ~ Johann Wolfgang von Goethe
+They may forget what you said, but they will never forget how you made them feel. ~ Carl W. Buechner
+Opportunities multiply as they are seized. ~ Sun Tzu
+The human mind treats a new idea the same way the body treats a strange protein; it rejects it. ~ P. B. Medawar
+The difference between the impossible and the possible lies in a person's determination. ~ Tommy Lasorda
+He who is not courageous enough to take risks will accomplish nothing in life. ~ Muhammad Ali
+There is real magic in enthusiasm. It spells the difference between mediocrity and accomplishment. ~ Norman Vincent Peale
+Doing your best is more important than being your best. ~ Shannon Miller
+Sometimes it is not enough to do our best; we must do what is required. ~ Winston Churchill
+Do not let what you cannot do interfere with what you can do. ~ John Wooden
+A ship is safe in harbour, but that's not what ships are for. ~ William Shedd
+When we can no longer change a situation, we are challenged to change ourselves. ~ Viktor Frankl
+Believe that life is worth living and your belief will help create the fact. ~ William James
+Minds are like parachutes. They only function when they are open. ~ James Dewar
+Better to do something imperfectly than to do nothing flawlessly. ~ Dr. Robert Schuller
+Get your ideas on paper and study them. Do not let them go to waste! ~ Les Brown
+If you hear a voice within you say you cannot paint, then by all means paint, and that voice will be silenced. ~ Vincent Van Gogh
+Even if you're on the right track, you'll get run over if you just sit there. ~ Will Rogers
+The greatest weapon against stress is our ability to choose one thought over another. ~ William James
+Happiness is not something ready made. It comes from your own actions. ~ Dalai Lama
+The time is always right to do what is right. ~ Martin Luther King Jr.
+Happiness is not a station you arrive at, but a manner of travelling. ~ Margaret B. Runbeck
+If you take responsibility for yourself you will develop a hunger to accomplish your dreams. ~ Les Brown
+The important thing is not to stop questioning. ~ Albert Einstein
+It is our choices...that show what we truly are, far more than our abilities. ~ J. K. Rowling.
+There are no secrets to success. It is the result of preparation, hard work and learning from failure. ~ Colin L. Powell
+The best is yet to be. ~ Robert Browning
+The tragedy of life is not that it ends so soon, but that we wait so long to begin it. ~ W.M. Lewis
+The most delightful surprise in life is to suddenly recognise your own worth. ~ Maxwell Maltz
+We build too many walls and not enough bridges. ~ Isaac Newton
+If your plan isn't working, adjust your plan. Never give up. ~ Matt Martin
+Trust yourself. You know more than you think you do. ~ Benjamin Spock
+There is no greater agony than bearing an untold story inside you. ~ Maya Angelou
+Will you look back on life and say, I wish I had, or I'm glad I did? ~ Zig Ziglar
+Always forgive your enemies; nothing annoys them so much. ~ Oscar Wilde
+Go as far as you can see; when you get there you'll be able to see farther. ~ Thomas Carlyle
+Let us so live that when we come to die even the undertaker will be sorry. ~ Mark Twain
+Just go out there and do what you've got to do. ~ Martina Navratilova
+A mediocre idea that generates enthusiasm will go further than a great idea that inspires no one. ~ Mary Kay Ash
+The ability to speak eloquently is not to be confused with having something to say. ~ Michael P. Hart
+Don't read a book and be a follower; read a book and be a student. ~ Jim Rohn
+Act decidedly and take the consequences. No good is ever done by hesitation. ~ Thomas Henry Huxley
+A goal is a dream with a deadline. ~ Napolean Hill
+Wherever there is a human being, there is an opportunity for kindness. ~ Seneca
+Music in the soul can be heard by the universe. ~ Lao Tsu
+Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. ~ Lou Holtz
+A goal properly set is halfway reached. ~ Zig Ziglar
+Tell me and I forget. Teach me and I remember. Involve me and I learn. ~ Benjamin Franklin
+Make no small plans for they have no power to stir the soul. ~ Niccolo Machiavelli
+Alone we can do so little; together we can do so much. ~ Helen Keller
+The mightiest works have been accomplished by men who have kept their ability to dream great dreams. ~ Walter Bowie
+We've got to have a dream if we are going to make a dream come true. ~ Dennis Waitley.
+Reality is merely an illusion, albeit a very persistent one. ~ Albert Einstein
+Kind words can be short and easy to speak, but their echoes are truly endless. ~ Mother Teresa
+Goals are not only absolutely necessary to motivate us. They are essential to really keep us alive. ~ Robert Schuller
+Quidquid praecipies, esto brevis. (Whatever advice you give, be brief) ~ Horace
+When you believe a thing, believe it all the way, implicitly and unquestionably. ~ Walt Disney
+Great achievement is usually born of great sacrifice, and is never the result of selfishness. ~ Napoleon Hill
+Don't hate, it's too big a burden to bear. ~ Martin Luther King.
+The heart has reasons that reason cannot know. ~ Blaise Pascal
+For what is man in nature? He is incapable of seeing the nothingness out of which he was drawn and the infinite in which he is engulfed. ~ Blaise Pascal
+I set this down as a fact, that if all men knew what each other said of the other, there would not be four friends in the world. ~ Blaise Pascal
+Man is equally incapable of seeing the nothingness from which he emerges and the infinity in which he is engulfed. ~ Blaise Pascal
+The reading of all good books is like a conversation with the finest minds of past centuries. ~ Descartes
+You always admire what you really don't understand. ~ Blaise Pascal
+Great things are not done by impulse, but by a series of small things brought together. ~ Vincent Van Gogh
+If you want to conquer fear, do not sit home and think about it. Go out and get busy. ~ Dale Carnegie
+Choice, not chance, determines your destiny. ~ Aristotle
+Love shows itself more in adversity than in prosperity; as light does, which shines most where the place is darkest. ~ Leonardo da Vinci
+Wisdom outweighs any wealth. ~ Sophocles
+Everyone has the power for greatness, not for fame, but greatness, because greatness is determined by service. ~ Martin Luther King Jr.
+The painter strives and competes with nature. ~ Leonardo da Vinci
+The beginning is the most important part of the work. ~ Plato
+It's not that I'm so smart, it's just that I stay with problems longer. ~ Albert Einstein
+Youth has no age. ~ Pablo Picasso
+To lengthen thy life, lessen thy meals. ~ Benjamin Franklin
+Our cause is noble; it is the cause of mankind! ~ George Washington
+Teachers open the door. You enter by yourself. ~ Chinese Proverb
+Move and the way will open. ~ Zen Proverb
+In the midst of great joy, do not promise anyone anything. In the midst of great anger, do not answer anyone's letter. ~ Chinese Proverb
+Pursue worthy aims. ~ Solon
+The things that we love tell us what we are. ~ St Thomas Aquinas
+Time discovers truth. ~ Seneca
+To grow old is to pass from passion to compassion. ~ Albert Camus
+If I only had an hour to chop down a tree, I would spend the first 45 minutes sharpening my axe. ~ Abraham Lincoln
+The company of just and righteous men is better than wealth and a rich estate. ~ Euripides
+Start by doing what's necessary, then what's possible, and suddenly you are doing the impossible. ~ Francis of Assisi
+Time stays long enough for those who use it. ~ Leonardo da Vinci
+Any person capable of angering you becomes your master. ~ Epictetus
+One of the most beautiful qualities of true friendship is to understand and to be understood. ~ Seneca
+Doubt grows with knowledge. ~ Johann Wolfgang von Goethe
+Some books are to be tasted, others to be swallowed, and some few to be chewed and digested. ~ Francis Bacon
+Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric. ~ Bertrand Russell
+Nothing gives rest but the sincere search for truth. ~ Blaise Pascal
+People who know little are usually great talkers, while men who know much say little. ~ Jean-Jacques Rousseau
+Hardly any human being is capable of pursuing two professions or two arts rightly. ~ Plato
+Two things control men's nature, instinct and experience. ~ Blaise Pascal
+Opinion is the medium between knowledge and ignorance. ~ Plato
+Philosophy is the highest music. ~ Plato
+Violence, even well intentioned, always rebounds upon oneself. ~ Lao Tzu
+To create something you must be something. ~ Johann Wolfgang von Goethe
+Wonder is the feeling of the philosopher, and philosophy begins in wonder. ~ Plato
+There is nothing so strange and so unbelievable that it has not been said by one philosopher or another. ~ Descartes
+Ignorant men raise questions that wise men answered a thousand years ago. ~ Johann Wolfgang von Goethe
+

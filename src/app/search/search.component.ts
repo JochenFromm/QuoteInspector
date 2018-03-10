@@ -15,11 +15,22 @@ import { QuotesService } from '../services/quotes.service';
 
 export class SearchComponent implements OnInit {
   keyword: string = '';
+  data: string[] = [];
   quotes: string[] = [];
   text: string = '';
 
   constructor (private activatedRoute: ActivatedRoute,
                private quotesService: QuotesService) {
+  }
+
+  onInputChanged(value: string) {
+    this.keyword = value;
+    this.updateQuotes();
+  }
+
+  updateQuotes() {
+    this.quotes = this.filter(this.data, this.keyword);
+    this.text = this.quotes.join(' ');
   }
 
   getKeyword() : void {
@@ -30,8 +41,8 @@ export class SearchComponent implements OnInit {
 
   getQuotes() : void {
     this.quotesService.findAll().subscribe(data => {
-      this.quotes = this.filter(data, this.keyword);
-      this.text = this.quotes.join(' ');
+      this.data = data;
+      this.updateQuotes();
     });
   }
 

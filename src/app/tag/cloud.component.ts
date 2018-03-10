@@ -10,12 +10,12 @@ import { stopWords } from './constants';
 
 export class CloudComponent implements OnInit  {
   @Input() text: string;
-  @Input() exclude: string;
+  @Input() keyword: string;
   grades = ["extra_small ", "small", "normal", "medium", "large", "extra_large"];
   cloud = {};
   tags = [];
   max = 0;
-  min = 4;
+  min = 3;
 
   ngOnInit() {
  }
@@ -23,15 +23,15 @@ export class CloudComponent implements OnInit  {
   ngOnChanges() {
     const cloud = this.buildCloud(this.text);
     this.cloud = this.filterCloud(cloud);
-    this.tags = Object.keys(cloud);
+    this.tags = [...Object.keys(cloud)];
     this.max = Math.max(...Object.values(cloud));
   }
 
   buildCloud(value) {
     const excludeWords = stopWords;
-    excludeWords.push(this.exclude.toLowerCase())
+    excludeWords.push(this.keyword.toLowerCase())
     const words = value.split(' ');
-    return words.map((word)=> word.toLowerCase().replace(/[\.\,!?;]/g, ''))
+    return words.map((word)=> word.toLowerCase().replace(/[\(\)\:\.\,!?;]|'s/g, ''))
       .filter((s) => s.trim() && s.length > this.min)
       .filter((s) => !excludeWords.includes(s))
       .reduce((x, s) => {

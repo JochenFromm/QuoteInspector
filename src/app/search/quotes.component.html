@@ -1,5 +1,5 @@
 <h3>
-  {{ lines.length }}
+  {{ quotes.length }}
   Results
   <span *ngIf="keyword">
     for "{{ keyword }}"
@@ -8,7 +8,7 @@
 
 <table class="table-striped">
    <thead><th>Author</th><th>Quote</th></thead>
-   <tr *ngFor="let line of lines">
+   <tr *ngFor="let line of quotes">
      <td> {{ author(line) }} </td>
      <td> {{ quote(line) }} </td>
    </tr>

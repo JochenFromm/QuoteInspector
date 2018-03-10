@@ -16,6 +16,7 @@ a {
   display: none;
   list-style-type: none;
   width: 400px;
+  min-height: 200px;
   float: right;
 }
 
@@ -31,21 +32,27 @@ a {
   display: inline-block;
   margin: 0px 6px;
 }
+
 .cloud li.extra_small {
-    font-size: 8px;
+  font-size: 10px;
 }
+
 .cloud li.small {
-    font-size: 9px;
+  font-size: 11px;
 }
+
 .cloud li.normal {
-    font-size: 11px;
+  font-size: 13px;
 }
+
 .cloud li.medium {
-    font-size: 13px;
+  font-size: 15px;
 }
+
 .cloud li.large {
-    font-size: 16px;
+  font-size: 16px;
 }
+
 .cloud li.extra_large {
-    font-size: 22px;
+  font-size: 22px;
 }
