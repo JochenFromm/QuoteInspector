@@ -577,7 +577,6 @@ Wealth is the slave of a wise man. The master of a fool  ~ Seneca
 Only time can heal what reason cannot. ~ Seneca
 It is the power of the mind to be unconquerable. ~ Seneca
 There is no easy way from the earth to the stars. ~ Seneca
-Difficulties strengthen the mind, as labor does the body. ~ Seneca
 Luck is what happens when preparation meets opportunity. ~ Seneca
 Our most important thoughts are those that contradict our emotions. ~ Paul Valery
 A man who is of 'sound mind' is one who keeps his inner madman under lock and key. ~ Paul Valery
@@ -911,7 +910,6 @@ What we do in life ripples in eternity. ~ Marcus Aurelius
 Because a thing seems difficult for you, do not think it impossible for anyone to accomplish. ~ Marcus Aurelius
 Our life is what our thoughts make it. ~ Marcus Aurelius
 As people are walking all the time, in the same spot, a path appears. ~ John Locke
-What worries you, masters you. ~ John Locke
 The condition of man... is a condition of war of everyone against everyone. ~ Thomas Hobbes
 Curiosity is the lust of the mind. ~ Thomas Hobbes
 We are what we repeatedly do. Excellence, therefore, is not an act by a habit. ~ Aristotle
@@ -992,7 +990,7 @@ When envoys are sent with compliments in their mouths, it is a sign that the ene
 Genius... means little more than the faculty of perceiving in an unhabitual way. ~ William James
 Indeed, history is nothing more than a tableau of crimes and misfortunes. ~ Voltaire
 Know your enemy and know yourself and you can fight a hundred battles without disaster. ~ Sun Tzu
-None are more taken in by flattery than the proud, who wish to be the first and are not. ~ Baruch Spinoza
+None are more taken in by flattery than the proud, who wish to be the first and are not. ~ Spinoza
 Acting is a question of absorbing other people's personalities and adding some of your own experience. ~ Jean-Paul Sartre
 The good life is one inspired by love and guided by knowledge. ~ Bertrand Russell
 How could man rejoice in victory and delight in the slaughter of men? ~ Lao Tzu
@@ -1176,4 +1174,64 @@ To create something you must be something. ~ Johann Wolfgang von Goethe
 Wonder is the feeling of the philosopher, and philosophy begins in wonder. ~ Plato
 There is nothing so strange and so unbelievable that it has not been said by one philosopher or another. ~ Descartes
 Ignorant men raise questions that wise men answered a thousand years ago. ~ Johann Wolfgang von Goethe
-
+What everyone wants from life is continuous and genuine happiness. ~ Spinoza
+Perfection of character : to live each day as if it were your last, without frenzy, without apathy, without pretence. ~ Marcus Aurelius
+Remember that very little is needed to make a happy life. ~ Marcus Aurelius
+Death smiles at us all, all a man can do is smile back. ~ Marcus Aurelius
+No matter how thin you slice it, there will always be two sides. ~ Spinoza
+If you want the present to be different from the past, study the past. ~ Spinoza
+The highest activity a human being can attain is learning for understanding, because to understand is to be free. ~ Spinoza
+Nothing in nature is by chance... Something appears to be chance only because of our lack of knowledge. ~ Spinoza
+The bad thing of war is, that it makes more evil people than it can take away. ~ Immanuel Kant
+We cannot live better than in seeking to become better. ~ Socrates
+Wherever Law ends, Tyranny begins. ~ John Locke
+A battle that you win cancels all your mistakes. ~ Niccolo Machiavelli
+Men are driven by two principal impulses, either by love or by fear. ~ Niccolo Machiavelli
+Everyone sees what you appear to be, few experience what you really are. ~ Niccolò Machiavelli
+Always assume incompetence before looking for conspiracy. ~ Niccolo Machiavelli
+It is better to act and repent than not to act and regret. ~ Niccolo Machiavelli
+I have always imagined that Paradise will be a kind of library. ~ Jorge Luis Borges
+Great minds discuss ideas, average minds discuss events, small minds discuss people. ~ Eleanor Roosevelt
+All is to be doubted. ~ Rene Descartes
+The reading of all good books is like a conversation with the finest minds of past centuries. ~ Rene Descartes
+Give me extension and motion and I will construct the universe. ~ Rene Descartes
+There is nothing so far removed from us to be beyond our reach, or so far hidden that we cannot discover it. ~ Descartes
+To live without philosophizing is in truth the same as keeping the eyes closed without attempting to open them. ~ Descartes
+Hope is a passion for the possible. ~ Søren Kierkegaard
+Don't forget to love yourself. ~ Søren Kierkegaard
+Desire to have things done quickly prevents their being done thoroughly. ~ Confucius
+Don't curse the darkness, light a candle. ~ Confucius
+The superior person is in harmony, but does not follow the crowd. The lesser person follows the crowd, but is not in harmony. ~ Confucius
+The important thing is not to stop questioning. Curiosity has its own reason for existing. ~ Albert Einstein
+Wheresoever you go, go with all your heart. ~ Confucius
+A work well begun is half-ended. ~ Plato
+If we wait for the moment when everything, absolutely everything is ready, we shall never begin. ~ Ivan Turgenev
+Do what you feel in your heart to be right - for you'll be criticized anyway. ~ Eleanor Roosevelt
+Difficulties increase the nearer we get to the goal. ~ Johann Wolfgang von Goethe
+Choose a job you love, and you will never have to work a day in your life. ~ Confucius
+It isn't where you came from; it's where you're going that counts. ~ Ella Fitzgerald
+Our greatest glory is not in never falling, but in rising every time we fall. ~ Confucius
+He listens well who takes notes. ~ Dante
+When anger rises, think of the consequences. ~ Confucius
+Don't put a limit on anything. The more you dream the farther you get. ~ Michael Phelps
+People are not disturbed by things, but by the view they take of them. ~ Epictetus
+Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth. ~ Blaise Pascal
+The virtue of a man ought to be measured, not by his extraordinary exertions, but by his everyday conduct. ~ Blaise Pascal
+Some authors say, "My book," "My opinion," etc when they should say, "Our book," "Our opinion," etc, because there is more of others than theirs. ~ Blaise Pascal
+The superior man understands what is right; the inferior man understands what will sell. ~ Confucius
+The person attempting to travel two roads at once will get nowhere. ~ Xunzi
+A path is made by walking on it. ~ Zhuangzi
+When the heart is right, 'for' and 'against are forgotten. ~ Zhuangzi
+A wise man has dignity without pride; a fool has pride without dignity. ~ Confucius
+Fix your mind on truth, hold firm to virtue, rely on loving kindness, and find your recreation in the Arts. ~ Confucius
+It matters not how slow you go as long as you do not stop. ~ Confucius
+Learn avidly. Question it repeatedly. Analyze it carefully. Then put what you have learned into practice intelligently. ~ Confucius
+Watch your thoughts, they become words. Watch your words, they become actions. Watch your actions, they become habit. ~ Lao Tzu
+Men do not stumble over mountains, but over molehills. ~ Confucius
+It is more important to outhink your enemy, than to outfight him. ~ Sun Tzu
+A man who does not think and plan long ahead will find trouble right at his door. ~ Confucius
+He who cannot describe the problem will never find the solution to that problem. ~ Confucius
+Sometimes gain comes from losing, and sometimes loss comes from gaining. ~ Lao Tzu
+Make your heart like a lake, with calm, still surface, and great depths of kindness. ~ Lao Tzu
+The world is won by those who let it go. ~ Lao Tzu
+The man who asks a question is a fool for a minute, the man who does not ask is a fool for life. ~ Confucius
