@@ -6,6 +6,8 @@ Run live on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspecto
 
 This project uses currently Angular 7.1 and was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
+The Quotes itself can be found in the assets directory [here](https://github.com/JochenFromm/QuoteInspector/blob/master/src/assets/quotes.txt)
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
