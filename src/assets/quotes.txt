@@ -494,7 +494,6 @@ Art is never finished, only abandoned. ~ Leonardo da Vinci
 Character is the most effective means of persuasion. ~ Aristotle
 Any man may easily do harm, but not every man can do good to another. ~ Plato.
 A clever person solves a problem. A wise person avoids it. ~ Albert Einstein
-History is philosophy teaching by example. ~ Thucydides
 To see the fruit in the seed, this is genius. ~ Lao Tzu
 That which is not good for the beehive, cannot be good for the bees. ~ Marcus Aurelius
 The best revenge is to be unlike the one who performed the injustice. ~ Marcus Aurelius
@@ -510,13 +509,11 @@ Let him that would move the world first move himself. ~ Socrates
 The reading of all good books is like a conversation with the finest minds of past centuries. ~ Descartes
 What we think, we become. ~ Buddha
 That which is not good for the beehive, cannot be good for the bees. ~ Marcus Aurelius
-The best revenge is to be unlike the one who performed the injustice. ~ Marcus Aurelius
 There is no avoiding war; it can only be postponed. ~ Machiavelli
 How happy we are, we finders of knowledge, provided we know how to keep silent sufficiently long. ~ Nietzsche
 Never discourage anyone who continually makes progress, no matter how slow. ~ Plato
 The learning and knowledge that we have is but little compared to that which we do not know. ~ Plato
 Each day provides its own gifts. ~ Marcus Aurelius
-Better to remain silent and be thought a fool than to speak out and remove all doubt. ~ Mark Twain
 Observe your enemies, for they first find your faults. ~ Antisthenes
 Let him that would move the world first move himself. ~ Socrates
 Your religion is what you do with your solitude. ~ W. Temple
@@ -1137,7 +1134,6 @@ The reading of all good books is like a conversation with the finest minds of pa
 You always admire what you really don't understand. ~ Blaise Pascal
 Great things are not done by impulse, but by a series of small things brought together. ~ Vincent Van Gogh
 If you want to conquer fear, do not sit home and think about it. Go out and get busy. ~ Dale Carnegie
-Choice, not chance, determines your destiny. ~ Aristotle
 Love shows itself more in adversity than in prosperity; as light does, which shines most where the place is darkest. ~ Leonardo da Vinci
 Wisdom outweighs any wealth. ~ Sophocles
 Everyone has the power for greatness, not for fame, but greatness, because greatness is determined by service. ~ Martin Luther King Jr.
@@ -1238,3 +1234,22 @@ The man who asks a question is a fool for a minute, the man who does not ask is 
 To learn who rules over you, simply find out who you are not allowed to criticize. ~ Voltaire
 Live each day as if your life had just begun. ~ Johann Wolfgang von Goethe
 You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty. ~ Mahatma Gandhi
+One cannot reflect in streaming water. Only those who know internal peace can give it to others. ~ Lao Tzu
+Don't let your past determine your destiny. ~ Confucius
+The man who moves a mountain begins by carrying away small stones. ~ Confucius
+Transport a handful of earth everyday and you will make a mountain. ~ Confucius
+Cultivate the root; the leaves and branches will take care of themselves. ~ Confucius
+Signs and symbols rule the world, not words nor laws. ~ Confucius
+Worry not that no one knows you; seek to be worth knowing. ~ Confucius
+By nature, men are nearly alike; by practice, they get to be wide apart. ~ Confucius
+Simplicity is prerequisite for reliability. ~ Edsger W. Dijkstra
+The only way to learn a new programming language is by writing programs in it. ~ Dennis Ritchie
+Friendship is the marriage of the soul, and this marriage is liable to divorce ~ Voltaire
+Freedom in general may be defined as the absence of obstacles to the realization of desires. ~ Bertrand Russell
+Justice without force is powerless; force without justice is tyrannical. ~ Blaise Pascal
+To avoid criticism say nothing, do nothing, be nothing. ~ Aristotle
+Freedom is obedience to self-formulated rules. ~ Aristotle
+Philosophy consists mostly of kicking up a lot of dust and then complaining that you can't see anything. ~ Gottfried Leibniz
+All truths are easy to understand once they are discovered; the point is to discover them. ~ Galileo Galilei
+The years wrinkle our skin, but lack of enthusiasm wrinkles our soul ~ Socrates
+How can you call a man free when his pleasures rule over him. ~ Socrates
