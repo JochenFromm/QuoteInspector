@@ -4,7 +4,7 @@ Simple Angular app for investigating quotes of wise men, old philosophers and gr
 
 Run live on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspector).
 
-This project uses currently Angular 5.2.6 and was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.1.
+This project uses currently Angular 7.1 and was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 ## Development server
 
