@@ -16,6 +16,7 @@ export class CloudComponent implements OnInit  {
   tags = [];
   max = 0;
   min = 3;
+  distribution = [];
 
   ngOnInit() {
  }
@@ -24,7 +25,8 @@ export class CloudComponent implements OnInit  {
     const cloud = this.buildCloud(this.text);
     this.cloud = this.filterCloud(cloud);
     this.tags = [...Object.keys(cloud)];
-    this.max = Math.max(...Object.values(cloud));
+    this.distribution = Object.values(cloud);
+    this.max = Math.max(...this.distribution);
   }
 
   buildCloud(value) {
