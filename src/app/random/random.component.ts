@@ -24,4 +24,8 @@ export class RandomComponent implements OnInit {
       this.quote_author = this.quotesService.author(quote);
     })
   }
+
+  refresh(): void {
+    window.location.reload();
+  }
 }
