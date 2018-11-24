@@ -18,14 +18,18 @@ export class RandomComponent implements OnInit {
   ngOnInit() {
     this.quotesService.findAll().subscribe(data => {
       this.quotes = data;
-      const index = Math.floor((Math.random() * this.quotes.length));
-      const quote = this.quotes[index];
-      this.quote_text = this.quotesService.quote(quote);
-      this.quote_author = this.quotesService.author(quote);
+      this.selectRandomQuote();
     })
   }
 
+  selectRandomQuote() {
+    const index = Math.floor((Math.random() * this.quotes.length));
+    const quote = this.quotes[index];
+    this.quote_text = this.quotesService.quote(quote);
+    this.quote_author = this.quotesService.author(quote);
+  }
+
   refresh(): void {
-    window.location.reload();
+    this.selectRandomQuote();
   }
 }
