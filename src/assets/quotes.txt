@@ -58,6 +58,8 @@ Making good decisions is a crucial skill at every level. ~ Peter Drucker
 If we do not plant knowledge when young, it will give us no shade when we are old. ~ Lord Chesterfield
 We make our own fortunes and call them fate. ~ Benjamin Disraeli
 Only the dead have seen the end of war. ~ Plato
+Thinking: the talking of the soul with itself. ~ Plato
+As the builders say, the larger stones do not lie well without the lesser. ~ Plato
 You cannot find peace by avoiding life. ~ Virginia Woolf
 Educating the mind without educating the heart is no education at all. ~ Aristotle
 To see what is right and not to do it, is want of courage. ~ Confucius
@@ -278,6 +280,7 @@ All human beings are also dream beings. Dreaming ties all mankind together. ~ Ja
 How important it is for us to recognize and celebrate our heroes and she-roes! ~ Maya Angelou
 It is quality rather than quantity that matters. ~ Seneca
 Begin to be now what you will be hereafter. ~ William James
+The essence of genius is to know what to overlook. ~ William James
 Plan for the future, because that is where you are going to spend the rest of your life. ~ Mark Twain
 The one unchangeable certainty is that nothing is unchangeable or certain. ~ John F. Kennedy
 Home is not where you live, it's where people understand you. ~ C. Morgenstern
@@ -296,6 +299,8 @@ We are like butterflies who flutter for a day and think it is forever. ~ Carl Sa
 Better to have loved and lost a short person than never to have loved a tall. ~ David Chambless
 People favour underdogs but follow only top dogs. Fight for a few underdogs anyway. ~ Dr. Kent M. Keith
 We always strive after what is forbidden, and desire the things refused us. ~ Ovid
+The mind can go where it wishes. ~ Ovid
+The burden which is well borne becomes light. ~ Ovid
 Problems are not stop signs, they are guidelines. ~ Robert H. Schuller
 With virtue you can't be entirely poor; without virtue you can't really be rich. ~ Chinese Proverb
 The honey is guarded by bees.. The rose has thorns.. To enjoy the sweet and beautiful you can not be cowardly. ~ Rev Run
@@ -370,6 +375,8 @@ First learn the meaning of what you say, and then speak. ~ Epictetus
 Don't be timid and squeamish about your actions. All life is an experiment. The more experiments you make, the better. ~ Ralph Waldo Emerson
 Seeing Is Forgetting the Name of the Thing One Sees. ~ Lawrence Weschler
 Nothing shows a man's character more than what he laughs at. ~ Johann Wolfgang von Goethe
+It is not doing the thing we like to do, but liking the thing we have to do, that makes life blessed. ~ Johann Wolfgang von Goethe
+Character, in great and little things, means carrying through what you feel able to do. ~ Johann Wolfgang von Goethe
 I can resist anything but temptation. ~ Oscar Wilde
 Uncertainty is the only certainty there is, and knowing how to live with insecurity is the only security. ~ John Allen Paulos
 Age does not protect you from love. But love, to some extent, protects you from age. ~ Anais Nin
@@ -486,6 +493,7 @@ Philosophy is the science which considers truth. ~ Aristotle
 The secret of all victory lies in the organization of the non-obvious. ~ Marcus Aurelius
 Those who deny freedom to others deserve it not for themselves. ~ Abraham Lincoln
 Read not to contradict and confute, nor to find talk and discourse, but to weigh and consider. ~ Francis Bacon
+Life, an age to the miserable, and a moment to the happy. ~ Francis Bacon
 Judge a man by his questions rather than by his answers. ~ Voltaire
 I may not agree with what you say, but I will defend to the death your right to say it. ~ Voltaire
 Without friends no one would choose to live, though he had everything else in the world. ~ Aristotle
@@ -503,7 +511,6 @@ There is no avoiding war; it can only be postponed. ~ Machiavelli
 How happy we are, we finders of knowledge, provided we know how to keep silent sufficiently long. ~ Nietzsche
 Never discourage anyone who continually makes progress, no matter how slow. ~ Plato
 The learning and knowledge that we have is but little compared to that which we do not know. ~ Plato
-Each day provides its own gifts. ~ Marcus Aurelius
 Better to remain silent and be thought a fool than to speak out and remove all doubt. ~ Mark Twain
 Observe your enemies, for they first find your faults. ~ Antisthenes
 Let him that would move the world first move himself. ~ Socrates
@@ -514,7 +521,6 @@ There is no avoiding war; it can only be postponed. ~ Machiavelli
 How happy we are, we finders of knowledge, provided we know how to keep silent sufficiently long. ~ Nietzsche
 Never discourage anyone who continually makes progress, no matter how slow. ~ Plato
 The learning and knowledge that we have is but little compared to that which we do not know. ~ Plato
-Each day provides its own gifts. ~ Marcus Aurelius
 Observe your enemies, for they first find your faults. ~ Antisthenes
 Let him that would move the world first move himself. ~ Socrates
 Your religion is what you do with your solitude. ~ W. Temple
@@ -918,6 +924,7 @@ Be not the slave of your own past. Plunge into the sublime seas, dive deep and s
 Do not go where the path may lead, go instead where there is no path and leave a trail. ~ Ralph Waldo Emerson
 Perfection is attained by slow degrees; it requires the hand of time. ~ Voltaire
 Small minds are concerned with the extraordinary, great minds with the ordinary. ~ Blaise Pascal
+Custom is our nature. What are our natural principles but principles of custom? ~ Blaise Pascal
 The world of reality has its limits; the world of imagination is boundless. ~ Jean-Jacques Rousseau
 There are many ways of going forward, but only one way of standing still. ~ Franklin D. Roosevelt
 A man is but the product of his thoughts. What he thinks, he becomes. ~ Mahatma Gandhi
@@ -931,6 +938,7 @@ Do the difficult things while they are easy and do the great things while they a
 The human mind will not be confined to any limits. ~ Johann Wolfgang von Goethe
 Ask not what your country can do for you - ask what you can do for your country. ~ John F. Kennedy
 It is not in the stars to hold our destiny but in ourselves. ~ William Shakespeare
+Be not afraid of greatness. Some are born great, some achieve greatness, and others have greatness thrust upon them. ~ William Shakespeare
 We don't stop playing because we grow old; we grow old because we stop playing. ~ George Bernard Shaw
 When in doubt, don't. ~ Benjamin Franklin
 One person can make a difference, and everyone should try. ~ John F. Kennedy
@@ -938,6 +946,8 @@ Better to light a candle than to curse the darkness. ~ Chinese Proverb
 To live is to think. ~ Marcus Tullius Cicero
 The mind is everything. What you think you become. ~ Buddha
 Adversity makes men, and prosperity makes monsters. ~ Victor Hugo
+To learn to read is to light a fire; every syllable that is spelled out is a spark. ~ Victor Hugo
+Even the darkest night will end and the sun will rise. ~ Victor Hugo
 Courage is grace under pressure. ~ Ernest Hemingway
 One moment of patience may ward off great disaster.  One moment of impatience may ruin a whole life. ~ Chinese Proverb
 The course of true love never did run smooth. ~ William Shakespeare
@@ -1210,8 +1220,10 @@ It isn't where you came from; it's where you're going that counts. ~ Ella Fitzge
 Our greatest glory is not in never falling, but in rising every time we fall. ~ Confucius
 He listens well who takes notes. ~ Dante
 When anger rises, think of the consequences. ~ Confucius
+When it is obvious that the goals cannot be reached, don't adjust the goals, adjust the action steps. ~ Confucius
 Don't put a limit on anything. The more you dream the farther you get. ~ Michael Phelps
 People are not disturbed by things, but by the view they take of them. ~ Epictetus
+No man is free who is not master of himself. ~ Epictetus
 Contradiction is not a sign of falsity, nor the lack of contradiction a sign of truth. ~ Blaise Pascal
 The virtue of a man ought to be measured, not by his extraordinary exertions, but by his everyday conduct. ~ Blaise Pascal
 Some authors say, "My book," "My opinion," etc when they should say, "Our book," "Our opinion," etc, because there is more of others than theirs. ~ Blaise Pascal
