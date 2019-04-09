@@ -2,7 +2,7 @@
 
 Simple Angular app for investigating quotes of wise men, old philosophers and great minds.
 
-Run live on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspector).
+See live on [GitHub Pages](https://jochenfromm.github.io/QuoteInspector/) or on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspector).
 
 This project uses currently Angular 7.1 and was generated with [Angular CLI](https://github.com/angular/angular-cli).
 
