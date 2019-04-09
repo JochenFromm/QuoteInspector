@@ -9,7 +9,7 @@ export class QuotesService {
   result: string[] = [];
 
   constructor(private http: Http) {
-   this.items = this.http.get('/assets/quotes.txt')
+   this.items = this.http.get('assets/quotes.txt')
                          .map((res: Response) => res.text().split(/\r\n|\n/));
    this.items.subscribe(data => this.result = data);
   }
