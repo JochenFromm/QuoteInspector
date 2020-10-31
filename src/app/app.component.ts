@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Http } from '@angular/http';
+import { HttpClientModule } from '@angular/common/http';
 import { SearchComponent } from './search/search.component';
 
 @Component({
@@ -11,6 +11,6 @@ import { SearchComponent } from './search/search.component';
 export class AppComponent {
   title: string = 'Quote Inspector';
 
-  constructor (private http: Http) {
+  constructor (private http: HttpClientModule) {
   }
 }

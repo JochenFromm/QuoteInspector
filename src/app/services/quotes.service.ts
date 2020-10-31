@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { Http, Response } from '@angular/http';
+import { HttpClient, HttpResponse } from '@angular/common/http';
 import { Observable } from 'rxjs/Observable'
 import 'rxjs/add/operator/map';
 
@@ -8,9 +8,9 @@ export class QuotesService {
   items: Observable<string[]>
   result: string[] = [];
 
-  constructor(private http: Http) {
-   this.items = this.http.get('assets/quotes.txt')
-                         .map((res: Response) => res.text().split(/\r\n|\n/));
+  constructor(private http: HttpClient) {
+   this.items = this.http.get('assets/quotes.txt', { responseType: 'text' })
+                         .map((res) => String(res).split(/\r\n|\n/));
    this.items.subscribe(data => this.result = data);
   }
 

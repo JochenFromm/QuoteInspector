@@ -4,7 +4,7 @@ Simple Angular app for investigating quotes of wise men, old philosophers and gr
 
 See live on [GitHub Pages](https://jochenfromm.github.io/QuoteInspector/) or on [Stackblitz](https://stackblitz.com/github/JochenFromm/QuoteInspector).
 
-This project uses currently Angular 7.1 and was generated with [Angular CLI](https://github.com/angular/angular-cli).
+This project uses currently Angular 10.2.1 and was originally generated with [Angular CLI](https://github.com/angular/angular-cli).
 
 The Quotes itself can be found in the assets directory [here](https://github.com/JochenFromm/QuoteInspector/blob/master/src/assets/quotes.txt)
 
@@ -23,10 +23,6 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 ## Running unit tests
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
 
 ## Further help
 
