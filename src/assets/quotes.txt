@@ -411,8 +411,8 @@ We have always known that heedless self interest was bad morals, we now know tha
 There are many ways of going forward, but only one way of standing still. ~ FDR
 Happiness lies in the joy of achievement and the thrill of creative effort. ~ FDR
 Ideas shape the course of history. ~ Keynes
-You may delay, but time will not. ~ Ben Franklin
-Either write something worth reading or do something worth writing. ~ Ben Franklin
+You may delay, but time will not. ~ Benjamin Franklin
+Either write something worth reading or do something worth writing. ~ Benjamin Franklin
 It is possible to provide security against other ills, but as far as death is concerned, we men live in a city without walls. ~ Epicurus
 You can never plan the future by the past. ~ Edmund Burke
 History is Philosophy teaching by example. ~ Thucydides
@@ -465,6 +465,7 @@ You cannot do a kindness too soon, for you never know how soon it will be too la
 Stupidity is the same all the world over. ~ John Stuart Mill
 Conquer yourself rather than the world. ~ Descartes
 He who knows only his side of the case, knows little of that. ~ John Stuart Mill
+Energy and persistence conquer all things. ~ Benjamin Franklin
 Many a man thinks he is buying pleasure when he is really selling himself to it. ~ Benjamin Franklin
 Every person thinks his mind more clever and more learned than it is. ~ Maimonides
 The mind commands the body and is instantly obeyed. The mind commands itself and meets resistance. ~ Augustine
@@ -482,6 +483,7 @@ A guilty conscience needs to confess. A work of art is a confession. ~ Albert Ca
 A man's character is his fate. ~ Heraclitus
 A man is as miserable as he thinks he is. ~ Seneca
 A great part of freedom is a well-governed appetite. ~ Seneca
+It is a rough road that leads to the heights of greatness. ~ Seneca
 Control thy passions, lest they take vengeance on thee. ~ Epictetus
 Those who cannot understand how to put their thoughts on ice should not enter into the heat of debate. ~ Friedrich Nietzsche
 Not what we have but what we enjoy constitutes our abundance. ~ Epicurus
@@ -674,6 +676,7 @@ Every secret of a writer's soul, every experience of his life, every quality of 
 The only difference between a tax man and a taxidermist is that the taxidermist leaves the skin. ~ Mark Twain
 All things are cause for either laughter or weeping. ~ Seneca
 Things don't have to change the world to be important. ~ Steve Jobs
+The only way to do great work is to love what you do. ~ Steve Jobs
 We must find the way to fly over the height that the world can see. We must find the way to be a Jonathan Seagull. ~ Richard Bach
 Good judgment comes from experience and experience comes from bad judgment. ~ Fred Brooks
 Not until we are lost do we begin to understand ourselves. ~ Henry David Thoreau
@@ -703,6 +706,7 @@ It's the business of govt to give people advice, not to take the decision out of
 The husband who wants a happy marriage should learn to keep his mouth shut and his checkbook open. ~ Groucho Marx
 Love all, trust a few, do wrong to none. ~ William Shakespeare
 Do what you can, with what you have, where you are. ~ Theodore Roosevelt
+Believe you can and you're halfway there ~ Theodore Roosevelt
 We are all of us stars, and we deserve to twinkle. ~ Marilyn Monroe
 God created war so that Americans would learn geography. ~ Mark Twain
 It's human nature to start taking things for granted again when danger isn't banging loudly on the door. ~ David Hackworth
@@ -739,6 +743,7 @@ Do what you must, and your friends will adjust. ~ Robert Brault
 What gets measured gets improved. ~ Peter Drucker
 There is no substitute for hard work. ~ Thomas Edison
 The more you like yourself, the less you are like anyone else, which makes you unique. ~ Walt Disney
+The way to get started is to quit talking and begin doing. ~ Walt Disney
 I'm the only person I know that's lost a quarter of a billion dollars in one year.... It's very character-building. ~ Steve Jobs
 Let us permit Nature to take her own ways she better understands her own affairs than we. ~ Michel de Montaigne
 Be miserable. Or motivate yourself. Whatever has to be done, it's always your choice. ~ Wayne Dyer
@@ -818,6 +823,7 @@ If you are not willing to risk the unusual, you will have to settle for the ordi
 Self-esteem is the reputation we acquire with ourselves. ~ Nathaniel Branden
 No matter how many goals you have achieved, you must set your sights on a higher one. ~ Jessica Savitch
 Knowing is not enough we must apply. Willing is not enough we must do. ~ Johann Wolfgang von Goethe
+One always has time enough, if one will apply it well. ~ Johann Wolfgang von Goethe
 Difficult things take a long time, impossible things a little longer. ~ Andre A. Jackson
 Never bend your head. Always hold it high. Look the world straight in the eye. ~ Helen Keller
 Even if you fall on your face, you're still moving forward. ~ Victor Kiam
@@ -876,6 +882,7 @@ Learning is the only thing the mind never exhausts, never fears, and never regre
 There are three classes of people: those who see. Those who see when they are shown. Those who do not see. ~ Leonardo da Vinci
 The noblest pleasure is the joy of understanding. ~ Leonardo da Vinci
 To become an artist you have to be curious. ~ Leonardo da Vinci
+Every artist was first an amateur. ~ Ralph Waldo Emerson
 When a man is prey to his emotions, he is not his own master. ~ Spinoza
 Everything excellent is as difficult as it is rare. ~ Spinoza
 One truth cannot conflict with another. ~ Spinoza
@@ -1019,9 +1026,11 @@ All warfare is based on deception. ~ Sun Tzu
 The world turns aside to let any man pass who knows where he is going. ~ Epictetus
 All that I know about my life, it seems, I have learned in books. ~ Jean-Paul Sartre
 Whoever wishes to keep a secret must hide the fact that he possesses one. ~ Johann Wolfgang von Goethe
+Magic is believing in yourself, if you can do that, you can make anything happen. ~ Johann Wolfgang von Goethe
 Tears are the silent language of grief. ~ Voltaire
 There is no conversation more boring than the one where everybody agrees. ~ Michel de Montaigne
 No man ever steps in the same river twice, for it's not the same river and he's not the same man. ~ Heraclitus
+Man is most nearly himself when he achieves the seriousness of a child at play. ~ Heraclitus
 The art of medicine consists in amusing the patient while nature cures the disease. ~ Voltaire
 Man is condemned to be free; because once thrown into the world, he is responsible for everything he does. ~ Jean-Paul Sartre
 People are usually more convinced by reasons they discovered themselves than by those found by others. ~ Blaise Pascal
@@ -1125,7 +1134,8 @@ Wherever there is a human being, there is an opportunity for kindness. ~ Seneca
 Music in the soul can be heard by the universe. ~ Lao Tsu
 Ability is what you're capable of doing. Motivation determines what you do. Attitude determines how well you do it. ~ Lou Holtz
 A goal properly set is halfway reached. ~ Zig Ziglar
-Tell me and I forget. Teach me and I remember. Involve me and I learn. ~ Benjamin Franklin
+Tell me and I forget. Teach me and I remember. Involve me and I learn. ~ Xunzi, Confucian philosopher
+Tell me and I will forget, show me and I might remember, involve me and I will understand. ~ Confucius
 Make no small plans for they have no power to stir the soul. ~ Niccolo Machiavelli
 Alone we can do so little; together we can do so much. ~ Helen Keller
 The mightiest works have been accomplished by men who have kept their ability to dream great dreams. ~ Walter Bowie
@@ -1208,6 +1218,7 @@ Hope is a passion for the possible. ~ Søren Kierkegaard
 Don't forget to love yourself. ~ Søren Kierkegaard
 Desire to have things done quickly prevents their being done thoroughly. ~ Confucius
 Don't curse the darkness, light a candle. ~ Confucius
+The superior man is modest in his speech, but exceeds in his actions. ~ Confucius
 The superior person is in harmony, but does not follow the crowd. The lesser person follows the crowd, but is not in harmony. ~ Confucius
 The important thing is not to stop questioning. Curiosity has its own reason for existing. ~ Albert Einstein
 Wheresoever you go, go with all your heart. ~ Confucius
@@ -1247,6 +1258,7 @@ The man who asks a question is a fool for a minute, the man who does not ask is 
 To learn who rules over you, simply find out who you are not allowed to criticize. ~ Voltaire
 Live each day as if your life had just begun. ~ Johann Wolfgang von Goethe
 You must not lose faith in humanity. Humanity is an ocean; if a few drops of the ocean are dirty, the ocean does not become dirty. ~ Mahatma Gandhi
+We must be the change we wish to see in the world. ~ Mahatma Gandhi
 One cannot reflect in streaming water. Only those who know internal peace can give it to others. ~ Lao Tzu
 Don't let your past determine your destiny. ~ Confucius
 The man who moves a mountain begins by carrying away small stones. ~ Confucius
